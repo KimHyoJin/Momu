@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
 
     # Apps
-    'cert',
+    'test',
     'member',
     'follow',
     'post',
